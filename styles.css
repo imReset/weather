@@ -1,0 +1,42 @@
+body {
+background-color: #20bf55;
+background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+font-family: 'Courier New', Courier, monospace;
+}
+
+#weather {
+  background-color: #fff;
+  padding: 2em;
+  display: auto;
+  align-items: center;
+  text-align: center;
+  border-radius: 1em;
+  max-width: 25%;
+  margin: 0 auto;
+}
+
+#location {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+#time {
+  font-style: italic
+}
+#temp {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+#description {
+  font-size: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+#rain {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+}
+
+.bold {
+  font-weight: bold;
+}
